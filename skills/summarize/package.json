@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-summarize",
+  "version": "1.0.0",
+  "description": "NEURO skill: Summarize or extract text/transcripts from URLs, podcasts, and local files (great fallback for \u201ctranscribe this YouTube/video\u201d).",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "summarize",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/summarize",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/summarize"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

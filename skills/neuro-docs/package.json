@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-neuro-docs",
+  "version": "1.0.0",
+  "description": "NEURO skill: NEURO documentation expert with decision tree navigation, search scripts, doc fetching, version tracking, and config snippets for all NEURO features (providers, gateway, automation, platforms, tools).",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "neuro-docs",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/neuro-docs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/neuro-docs"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

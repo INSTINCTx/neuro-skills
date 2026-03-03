@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-session-logs",
+  "version": "1.0.0",
+  "description": "NEURO skill: Search and analyze your own session logs (older/parent conversations) using jq.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "session-logs",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/session-logs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/session-logs"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

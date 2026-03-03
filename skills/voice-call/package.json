@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-voice-call",
+  "version": "1.0.0",
+  "description": "NEURO skill: Start voice calls via the Neuro voice-call plugin.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "voice-call",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/voice-call",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/voice-call"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

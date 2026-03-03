@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-nano-pdf",
+  "version": "1.0.0",
+  "description": "NEURO skill: Edit PDFs with natural-language instructions using the nano-pdf CLI.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "nano-pdf",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/nano-pdf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/nano-pdf"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

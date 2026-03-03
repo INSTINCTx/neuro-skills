@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-sherpa-onnx-tts",
+  "version": "1.0.0",
+  "description": "NEURO skill: Local text-to-speech via sherpa-onnx (offline, no cloud)",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "sherpa-onnx-tts",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/sherpa-onnx-tts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/sherpa-onnx-tts"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "@instinctx/neuro-skill-imsg",
+  "version": "1.0.0",
+  "description": "NEURO skill: iMessage/SMS CLI for listing chats, history, and sending messages via Messages.app.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "imsg",
+    "macos"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/imsg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/imsg"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ],
+  "os": [
+    "darwin"
+  ]
+}

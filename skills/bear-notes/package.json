@@ -1,0 +1,33 @@
+{
+  "name": "@instinctx/neuro-skill-bear-notes",
+  "version": "1.0.0",
+  "description": "NEURO skill: Create, search, and manage Bear notes via grizzly CLI.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "bear-notes",
+    "macos"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/bear-notes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/bear-notes"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ],
+  "os": [
+    "darwin"
+  ]
+}

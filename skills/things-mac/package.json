@@ -1,0 +1,33 @@
+{
+  "name": "@instinctx/neuro-skill-things-mac",
+  "version": "1.0.0",
+  "description": "NEURO skill: Manage Things 3 via the `things` CLI on macOS (add/update projects+todos via URL scheme; read/search/list from the local Things database). Use when a user asks Neuro to add a task to Things, list inbo",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "things-mac",
+    "macos"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/things-mac",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/things-mac"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ],
+  "os": [
+    "darwin"
+  ]
+}

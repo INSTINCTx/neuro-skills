@@ -1,0 +1,33 @@
+{
+  "name": "@instinctx/neuro-skill-apple-notes",
+  "version": "1.0.0",
+  "description": "NEURO skill: Manage Apple Notes via the `memo` CLI on macOS (create, view, edit, delete, search, move, and export notes). Use when a user asks Neuro to add a note, list notes, search notes, or manage note folders.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "apple-notes",
+    "macos"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/apple-notes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/apple-notes"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ],
+  "os": [
+    "darwin"
+  ]
+}

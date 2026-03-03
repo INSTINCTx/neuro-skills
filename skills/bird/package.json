@@ -1,0 +1,33 @@
+{
+  "name": "@instinctx/neuro-skill-bird",
+  "version": "1.0.0",
+  "description": "NEURO skill: X/Twitter CLI for reading, searching, posting, and engagement via cookies.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "bird",
+    "macos"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/bird",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/bird"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ],
+  "os": [
+    "darwin"
+  ]
+}

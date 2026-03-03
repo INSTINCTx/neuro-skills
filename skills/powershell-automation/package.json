@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-powershell-automation",
+  "version": "1.0.0",
+  "description": "NEURO skill: Windows automation via PowerShell. File operations, system info, process management, and safe scripting. Windows-only.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "powershell-automation",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/powershell-automation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/powershell-automation"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

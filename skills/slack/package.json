@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-slack",
+  "version": "1.0.0",
+  "description": "NEURO skill: Use when you need to control Slack from Neuro via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "slack",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/slack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/slack"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

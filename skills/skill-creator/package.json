@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-skill-creator",
+  "version": "1.0.0",
+  "description": "NEURO skill: Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "skill-creator",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/skill-creator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/skill-creator"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

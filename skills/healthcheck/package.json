@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-healthcheck",
+  "version": "1.0.0",
+  "description": "NEURO skill: Host security hardening and risk-tolerance configuration for Neuro deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, Neuro cron sched",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "healthcheck",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/healthcheck",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/healthcheck"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

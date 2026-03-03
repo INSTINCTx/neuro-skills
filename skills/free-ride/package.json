@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-free-ride",
+  "version": "1.0.0",
+  "description": "NEURO skill: Manages free AI models from OpenRouter for NEURO. Automatically ranks models by quality, configures fallbacks for rate-limit handling, and updates neuro.json. Use when the user mentions free AI, OpenR",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "free-ride",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/free-ride",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/free-ride"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

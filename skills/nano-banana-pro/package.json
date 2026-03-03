@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-nano-banana-pro",
+  "version": "1.0.0",
+  "description": "NEURO skill: Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "nano-banana-pro",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/nano-banana-pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/nano-banana-pro"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}

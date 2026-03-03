@@ -1,0 +1,30 @@
+{
+  "name": "@instinctx/neuro-skill-oracle",
+  "version": "1.0.0",
+  "description": "NEURO skill: Best practices for using the oracle CLI (prompt + file bundling, engines, sessions, and file attachment patterns).",
+  "keywords": [
+    "neuro",
+    "neuro-skill",
+    "ai-agent",
+    "neural-sync",
+    "oracle",
+    "windows"
+  ],
+  "homepage": "https://github.com/INSTINCTx/neuro-skills/tree/main/skills/oracle",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/INSTINCTx/neuro-skills.git",
+    "directory": "skills/oracle"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts",
+    "references",
+    "hooks",
+    "install.js"
+  ]
+}
