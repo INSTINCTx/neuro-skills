@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-slack",
+  "name": "@instinctx_dev/neuro-skill-slack",
   "version": "1.0.0",
   "description": "NEURO skill: Use when you need to control Slack from Neuro via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.",
   "keywords": [

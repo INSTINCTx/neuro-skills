@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-discord",
+  "name": "@instinctx_dev/neuro-skill-discord",
   "version": "1.0.0",
   "description": "NEURO skill: Discord ops via the message tool (channel=discord).",
   "keywords": [

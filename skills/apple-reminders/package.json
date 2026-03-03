@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-apple-reminders",
+  "name": "@instinctx_dev/neuro-skill-apple-reminders",
   "version": "1.0.0",
   "description": "NEURO skill: Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output.",
   "keywords": [

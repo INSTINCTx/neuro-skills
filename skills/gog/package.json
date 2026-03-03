@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-gog",
+  "name": "@instinctx_dev/neuro-skill-gog",
   "version": "1.0.0",
   "description": "NEURO skill: Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.",
   "keywords": [

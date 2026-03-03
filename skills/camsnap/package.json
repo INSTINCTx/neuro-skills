@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-camsnap",
+  "name": "@instinctx_dev/neuro-skill-camsnap",
   "version": "1.0.0",
   "description": "NEURO skill: Capture frames or clips from RTSP/ONVIF cameras.",
   "keywords": [

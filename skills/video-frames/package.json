@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-video-frames",
+  "name": "@instinctx_dev/neuro-skill-video-frames",
   "version": "1.0.0",
   "description": "NEURO skill: Extract frames or short clips from videos using ffmpeg.",
   "keywords": [

@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-nano-banana-pro",
+  "name": "@instinctx_dev/neuro-skill-nano-banana-pro",
   "version": "1.0.0",
   "description": "NEURO skill: Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
   "keywords": [

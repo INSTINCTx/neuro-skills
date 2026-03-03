@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-coding-agent",
+  "name": "@instinctx_dev/neuro-skill-coding-agent",
   "version": "1.0.0",
   "description": "NEURO skill: Delegate coding tasks to Codex, Claude Code, or Pi agents via background process. Use when: (1) building/creating new features or apps, (2) reviewing PRs (spawn in temp dir), (3) refactoring large cod",
   "keywords": [

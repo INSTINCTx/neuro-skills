@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-gemini",
+  "name": "@instinctx_dev/neuro-skill-gemini",
   "version": "1.0.0",
   "description": "NEURO skill: Gemini CLI for one-shot Q&A, summaries, and generation.",
   "keywords": [

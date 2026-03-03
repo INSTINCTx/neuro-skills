@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-openai-whisper",
+  "name": "@instinctx_dev/neuro-skill-openai-whisper",
   "version": "1.0.0",
   "description": "NEURO skill: Local speech-to-text with the Whisper CLI (no API key).",
   "keywords": [

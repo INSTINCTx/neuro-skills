@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-oracle",
+  "name": "@instinctx_dev/neuro-skill-oracle",
   "version": "1.0.0",
   "description": "NEURO skill: Best practices for using the oracle CLI (prompt + file bundling, engines, sessions, and file attachment patterns).",
   "keywords": [

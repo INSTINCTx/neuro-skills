@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-trello",
+  "name": "@instinctx_dev/neuro-skill-trello",
   "version": "1.0.0",
   "description": "NEURO skill: Manage Trello boards, lists, and cards via the Trello REST API.",
   "keywords": [

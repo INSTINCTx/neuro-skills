@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-voice-call",
+  "name": "@instinctx_dev/neuro-skill-voice-call",
   "version": "1.0.0",
   "description": "NEURO skill: Start voice calls via the Neuro voice-call plugin.",
   "keywords": [

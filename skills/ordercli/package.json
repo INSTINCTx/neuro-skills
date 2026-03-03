@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-ordercli",
+  "name": "@instinctx_dev/neuro-skill-ordercli",
   "version": "1.0.0",
   "description": "NEURO skill: Foodora-only CLI for checking past orders and active order status (Deliveroo WIP).",
   "keywords": [

@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-free-ride",
+  "name": "@instinctx_dev/neuro-skill-free-ride",
   "version": "1.0.0",
   "description": "NEURO skill: Manages free AI models from OpenRouter for NEURO. Automatically ranks models by quality, configures fallbacks for rate-limit handling, and updates neuro.json. Use when the user mentions free AI, OpenR",
   "keywords": [

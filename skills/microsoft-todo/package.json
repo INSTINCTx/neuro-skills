@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-microsoft-todo",
+  "name": "@instinctx_dev/neuro-skill-microsoft-todo",
   "version": "1.0.0",
   "description": "NEURO skill: Manage tasks with Microsoft To Do via Graph API. Create, update, complete, and delete tasks across lists. Cross-platform (API-based).",
   "keywords": [

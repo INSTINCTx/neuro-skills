@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-openhue",
+  "name": "@instinctx_dev/neuro-skill-openhue",
   "version": "1.0.0",
   "description": "NEURO skill: Control Philips Hue lights and scenes via the OpenHue CLI.",
   "keywords": [

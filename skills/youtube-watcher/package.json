@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-youtube-watcher",
+  "name": "@instinctx_dev/neuro-skill-youtube-watcher",
   "version": "1.0.0",
   "description": "NEURO skill: Fetch and read transcripts from YouTube videos. Use when you need to summarize a video, answer questions about its content, or extract information from it.",
   "keywords": [

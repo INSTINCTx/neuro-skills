@@ -1,5 +1,5 @@
 {
-  "name": "neuro-skill-tmux",
+  "name": "@instinctx_dev/neuro-skill-tmux",
   "version": "1.0.0",
   "description": "NEURO skill: Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
   "keywords": [
