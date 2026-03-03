@@ -1,0 +1,772 @@
+{
+  "skills": [
+    {
+      "name": "1password",
+      "description": "Set up and use 1Password CLI (op). Use when installing the CLI, enabling desktop app integration, signing in (single or multi-account), or reading/injecting/running secrets via op.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-1password"
+    },
+    {
+      "name": "api-gateway",
+      "description": "|",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-api-gateway"
+    },
+    {
+      "name": "apple-notes",
+      "description": "Manage Apple Notes via the `memo` CLI on macOS (create, view, edit, delete, search, move, and export notes). Use when a user asks Neuro to add a note, list notes, search notes, or manage note folders.",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-apple-notes"
+    },
+    {
+      "name": "apple-reminders",
+      "description": "Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output.",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-apple-reminders"
+    },
+    {
+      "name": "automation-workflows",
+      "description": "Design and implement automation workflows to save time and scale operations as a solopreneur. Use when identifying repetitive tasks to automate, building workflows across tools, setting up triggers an",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-automation-workflows"
+    },
+    {
+      "name": "bear-notes",
+      "description": "Create, search, and manage Bear notes via grizzly CLI.",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-bear-notes"
+    },
+    {
+      "name": "bird",
+      "description": "X/Twitter CLI for reading, searching, posting, and engagement via cookies.",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-bird"
+    },
+    {
+      "name": "blogwatcher",
+      "description": "Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-blogwatcher"
+    },
+    {
+      "name": "blucli",
+      "description": "BluOS CLI (blu) for discovery, playback, grouping, and volume.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-blucli"
+    },
+    {
+      "name": "bluebubbles",
+      "description": "Use when you need to send or manage iMessages via BlueBubbles (recommended iMessage integration). Calls go through the generic message tool with channel=\"bluebubbles\".",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-bluebubbles"
+    },
+    {
+      "name": "byterover",
+      "description": "You MUST use this for gathering contexts before any work. This is a Knowledge management for AI agents. Use `brv` to store and retrieve project patterns, decisions, and architectural rules in .brv/con",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-byterover"
+    },
+    {
+      "name": "camsnap",
+      "description": "Capture frames or clips from RTSP/ONVIF cameras.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-camsnap"
+    },
+    {
+      "name": "canvas",
+      "description": "NEURO skill: canvas",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-canvas"
+    },
+    {
+      "name": "clawdhub",
+      "description": "Use the ClawdHub CLI to search, install, update, and publish agent skills from clawdhub.com. Use when you need to fetch new skills on the fly, sync installed skills to latest or a specific version, or",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-clawdhub"
+    },
+    {
+      "name": "clawhub",
+      "description": "Use the ClawHub CLI to search, install, update, and publish agent skills from clawhub.com. Use when you need to fetch new skills on the fly, sync installed skills to latest or a specific version, or p",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-clawhub"
+    },
+    {
+      "name": "coding-agent",
+      "description": "Delegate coding tasks to Codex, Claude Code, or Pi agents via background process. Use when: (1) building/creating new features or apps, (2) reviewing PRs (spawn in temp dir), (3) refactoring large cod",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-coding-agent"
+    },
+    {
+      "name": "discord",
+      "description": "Discord ops via the message tool (channel=discord).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-discord"
+    },
+    {
+      "name": "duckduckgo-search",
+      "description": "Performs web searches using DuckDuckGo to retrieve real-time information from the internet. Use when the user needs to search for current events, documentation, tutorials, or any information that requ",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-duckduckgo-search"
+    },
+    {
+      "name": "eightctl",
+      "description": "Control Eight Sleep pods (status, temperature, alarms, schedules).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-eightctl"
+    },
+    {
+      "name": "find-skills",
+      "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This sk",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-find-skills"
+    },
+    {
+      "name": "food-order",
+      "description": "Reorder Foodora orders + track ETA/status with ordercli. Never confirm without explicit user approval. Triggers: order food, reorder, track ETA.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-food-order"
+    },
+    {
+      "name": "free-ride",
+      "description": "Manages free AI models from OpenRouter for NEURO. Automatically ranks models by quality, configures fallbacks for rate-limit handling, and updates neuro.json. Use when the user mentions free AI, OpenR",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-free-ride"
+    },
+    {
+      "name": "frontend-design-v2",
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code ",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-frontend-design-v2"
+    },
+    {
+      "name": "gemini",
+      "description": "Gemini CLI for one-shot Q&A, summaries, and generation.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-gemini"
+    },
+    {
+      "name": "gh-issues",
+      "description": "Fetch GitHub issues, spawn sub-agents to implement fixes and open PRs, then monitor and address PR review comments. Usage: /gh-issues [owner/repo] [--label bug] [--limit 5] [--milestone v1.0] [--assig",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-gh-issues"
+    },
+    {
+      "name": "gifgrep",
+      "description": "Search GIF providers with CLI/TUI, download results, and extract stills/sheets.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-gifgrep"
+    },
+    {
+      "name": "github",
+      "description": "GitHub operations via `gh` CLI: issues, PRs, CI runs, code review, API queries. Use when: (1) checking PR status or CI, (2) creating/commenting on issues, (3) listing/filtering PRs or issues, (4) view",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-github"
+    },
+    {
+      "name": "gog",
+      "description": "Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-gog"
+    },
+    {
+      "name": "goplaces",
+      "description": "Query Google Places API (New) via the goplaces CLI for text search, place details, resolve, and reviews. Use for human-friendly place lookup or JSON output for scripts.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-goplaces"
+    },
+    {
+      "name": "healthcheck",
+      "description": "Host security hardening and risk-tolerance configuration for Neuro deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, Neuro cron sched",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-healthcheck"
+    },
+    {
+      "name": "himalaya",
+      "description": "CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search, and organize emails from the terminal. Supports multiple accounts and message composition with MML (MIM",
+      "os": [
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-himalaya"
+    },
+    {
+      "name": "humanize-ai-text",
+      "description": "Humanize AI-generated text to bypass detection. This humanizer rewrites ChatGPT, Claude, and GPT content to sound natural and pass AI detectors like GPTZero, Turnitin, and Originality.ai. Based on Wik",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-humanize-ai-text"
+    },
+    {
+      "name": "humanizer",
+      "description": "|",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-humanizer"
+    },
+    {
+      "name": "imsg",
+      "description": "iMessage/SMS CLI for listing chats, history, and sending messages via Messages.app.",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-imsg"
+    },
+    {
+      "name": "local-places",
+      "description": "Search for places (restaurants, cafes, etc.) via Google Places API proxy on localhost.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-local-places"
+    },
+    {
+      "name": "markdown-converter",
+      "description": "Convert documents and files to Markdown using markitdown. Use when converting PDF, Word (.docx), PowerPoint (.pptx), Excel (.xlsx, .xls), HTML, CSV, JSON, XML, images (with EXIF/OCR), audio (with tran",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-markdown-converter"
+    },
+    {
+      "name": "mcporter",
+      "description": "Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-mcporter"
+    },
+    {
+      "name": "microsoft-todo",
+      "description": "Manage tasks with Microsoft To Do via Graph API. Create, update, complete, and delete tasks across lists. Cross-platform (API-based).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-microsoft-todo"
+    },
+    {
+      "name": "model-usage",
+      "description": "Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost d",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-model-usage"
+    },
+    {
+      "name": "n8n-workflow-automation",
+      "description": "Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues. Use when you need an auditable automation that won’t sil",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-n8n-workflow-automation"
+    },
+    {
+      "name": "nano-banana-pro",
+      "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-nano-banana-pro"
+    },
+    {
+      "name": "nano-pdf",
+      "description": "Edit PDFs with natural-language instructions using the nano-pdf CLI.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-nano-pdf"
+    },
+    {
+      "name": "neuro-docs",
+      "description": "NEURO documentation expert with decision tree navigation, search scripts, doc fetching, version tracking, and config snippets for all NEURO features (providers, gateway, automation, platforms, tools).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-neuro-docs"
+    },
+    {
+      "name": "news-summary",
+      "description": "This skill should be used when the user asks for news updates, daily briefings, or what's happening in the world. Fetches news from trusted international RSS feeds and can create voice summaries.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-news-summary"
+    },
+    {
+      "name": "notion",
+      "description": "Notion API for creating and managing pages, databases, and blocks.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-notion"
+    },
+    {
+      "name": "obsidian",
+      "description": "Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-obsidian"
+    },
+    {
+      "name": "onenote",
+      "description": "Manage notes with Microsoft OneNote via Graph API. Create notebooks, sections, and pages. Search and organize notes. Cross-platform (API-based).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-onenote"
+    },
+    {
+      "name": "openai-image-gen",
+      "description": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-openai-image-gen"
+    },
+    {
+      "name": "openai-whisper",
+      "description": "Local speech-to-text with the Whisper CLI (no API key).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-openai-whisper"
+    },
+    {
+      "name": "openai-whisper-api",
+      "description": "Transcribe audio via OpenAI Audio Transcriptions API (Whisper).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-openai-whisper-api"
+    },
+    {
+      "name": "openhue",
+      "description": "Control Philips Hue lights and scenes via the OpenHue CLI.",
+      "os": [
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-openhue"
+    },
+    {
+      "name": "oracle",
+      "description": "Best practices for using the oracle CLI (prompt + file bundling, engines, sessions, and file attachment patterns).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-oracle"
+    },
+    {
+      "name": "ordercli",
+      "description": "Foodora-only CLI for checking past orders and active order status (Deliveroo WIP).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-ordercli"
+    },
+    {
+      "name": "peekaboo",
+      "description": "Capture and automate macOS UI with the Peekaboo CLI.",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-peekaboo"
+    },
+    {
+      "name": "perplexity",
+      "description": "Deep research with Perplexity AI - Advanced models with citations",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-perplexity"
+    },
+    {
+      "name": "powershell-automation",
+      "description": "Windows automation via PowerShell. File operations, system info, process management, and safe scripting. Windows-only.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-powershell-automation"
+    },
+    {
+      "name": "proactive-agent",
+      "description": "Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now with WAL Protocol, Working Buffer, Autonomous Crons, and battle-tested patterns. Par",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-proactive-agent"
+    },
+    {
+      "name": "sag",
+      "description": "ElevenLabs text-to-speech with mac-style say UX.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-sag"
+    },
+    {
+      "name": "self-improvement",
+      "description": "Captures learnings, errors, and corrections to enable continuous improvement. Use when: (1) A command or operation fails unexpectedly, (2) User corrects NEURO ('No, that's wrong...', 'Actually...'), (",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-self-improvement"
+    },
+    {
+      "name": "session-logs",
+      "description": "Search and analyze your own session logs (older/parent conversations) using jq.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-session-logs"
+    },
+    {
+      "name": "sherpa-onnx-tts",
+      "description": "Local text-to-speech via sherpa-onnx (offline, no cloud)",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-sherpa-onnx-tts"
+    },
+    {
+      "name": "skill-creator",
+      "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-skill-creator"
+    },
+    {
+      "name": "slack",
+      "description": "Use when you need to control Slack from Neuro via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-slack"
+    },
+    {
+      "name": "songsee",
+      "description": "Generate spectrograms and feature-panel visualizations from audio with the songsee CLI.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-songsee"
+    },
+    {
+      "name": "sonoscli",
+      "description": "Control Sonos speakers (discover/status/play/volume/group).",
+      "os": [
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-sonoscli"
+    },
+    {
+      "name": "spotify-player",
+      "description": "Terminal Spotify playback/search via spogo (preferred) or spotify_player.",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-spotify-player"
+    },
+    {
+      "name": "summarize",
+      "description": "Summarize or extract text/transcripts from URLs, podcasts, and local files (great fallback for “transcribe this YouTube/video”).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-summarize"
+    },
+    {
+      "name": "superdesign",
+      "description": "Expert frontend design guidelines for creating beautiful, modern UIs. Use when building landing pages, dashboards, or any user interface. Based on SuperDesign patterns.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-superdesign"
+    },
+    {
+      "name": "tavily",
+      "description": "AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents. Use when searching the web, researching topics, fetching current news, or extracting content from URLs. Require",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-tavily"
+    },
+    {
+      "name": "things-mac",
+      "description": "Manage Things 3 via the `things` CLI on macOS (add/update projects+todos via URL scheme; read/search/list from the local Things database). Use when a user asks Neuro to add a task to Things, list inbo",
+      "os": [
+        "darwin"
+      ],
+      "package": "@instinctx_dev/neuro-skill-things-mac"
+    },
+    {
+      "name": "tmux",
+      "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.",
+      "os": [
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-tmux"
+    },
+    {
+      "name": "trello",
+      "description": "Manage Trello boards, lists, and cards via the Trello REST API.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-trello"
+    },
+    {
+      "name": "video-frames",
+      "description": "Extract frames or short clips from videos using ffmpeg.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-video-frames"
+    },
+    {
+      "name": "voice-call",
+      "description": "Start voice calls via the Neuro voice-call plugin.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-voice-call"
+    },
+    {
+      "name": "wacli",
+      "description": "Send WhatsApp messages to other people or search/sync WhatsApp history via the wacli CLI (not for normal user chats).",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-wacli"
+    },
+    {
+      "name": "weather",
+      "description": "Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temperature, or forecasts for any location. NOT for: historical weather data, severe weather alerts, or ",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-weather"
+    },
+    {
+      "name": "xurl",
+      "description": "A CLI tool for making authenticated requests to the X (Twitter) API. Use this skill when you need to post tweets, reply, quote, search, read posts, manage followers, send DMs, upload media, or interac",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-xurl"
+    },
+    {
+      "name": "youtube",
+      "description": "|",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-youtube"
+    },
+    {
+      "name": "youtube-watcher",
+      "description": "Fetch and read transcripts from YouTube videos. Use when you need to summarize a video, answer questions about its content, or extract information from it.",
+      "os": [
+        "win32",
+        "darwin",
+        "linux"
+      ],
+      "package": "@instinctx_dev/neuro-skill-youtube-watcher"
+    }
+  ]
+}
