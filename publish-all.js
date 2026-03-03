@@ -1,6 +1,6 @@
-#!/usr/bin/env node
+﻿#!/usr/bin/env node
 /**
- * publish-all.js — Publish all 79 @instinctx/neuro-skill-* packages to npm
+ * publish-all.js â€” Publish all 79 @instinctx-dev/neuro-skill-* packages to npm
  * 
  * Usage:
  *   npm login --scope=@instinctx   (run once first)
@@ -26,23 +26,24 @@ for (const skill of skills.sort()) {
         // Check if already published
         try {
             execSync(`npm view ${pkg.name} version`, { stdio: 'pipe' });
-            console.log(`  ⏭  ${pkg.name} — already published, skipping`);
+            console.log(`  â­  ${pkg.name} â€” already published, skipping`);
             skipped++;
             continue;
         } catch {
-            // Not published yet — proceed
+            // Not published yet â€” proceed
         }
 
         execSync(`npm publish --access public`, {
             cwd: skillPath,
             stdio: 'inherit'
         });
-        console.log(`  ✅ ${pkg.name}`);
+        console.log(`  âœ… ${pkg.name}`);
         published++;
     } catch (err) {
-        console.error(`  ❌ ${pkg.name} — ${err.message}`);
+        console.error(`  âŒ ${pkg.name} â€” ${err.message}`);
         failed++;
     }
 }
 
-console.log(`\n📦 Done: ${published} published, ${skipped} skipped, ${failed} failed`);
+console.log(`\nðŸ“¦ Done: ${published} published, ${skipped} skipped, ${failed} failed`);
+

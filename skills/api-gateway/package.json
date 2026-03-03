@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-api-gateway",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-api-gateway",
   "version": "1.0.0",
   "description": "NEURO skill: |",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-session-logs",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-session-logs",
   "version": "1.0.0",
   "description": "NEURO skill: Search and analyze your own session logs (older/parent conversations) using jq.",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-local-places",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-local-places",
   "version": "1.0.0",
   "description": "NEURO skill: Search for places (restaurants, cafes, etc.) via Google Places API proxy on localhost.",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

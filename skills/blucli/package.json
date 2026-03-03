@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-blucli",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-blucli",
   "version": "1.0.0",
   "description": "NEURO skill: BluOS CLI (blu) for discovery, playback, grouping, and volume.",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

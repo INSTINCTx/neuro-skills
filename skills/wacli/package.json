@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-wacli",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-wacli",
   "version": "1.0.0",
   "description": "NEURO skill: Send WhatsApp messages to other people or search/sync WhatsApp history via the wacli CLI (not for normal user chats).",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

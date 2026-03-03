@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-summarize",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-summarize",
   "version": "1.0.0",
   "description": "NEURO skill: Summarize or extract text/transcripts from URLs, podcasts, and local files (great fallback for \u201ctranscribe this YouTube/video\u201d).",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

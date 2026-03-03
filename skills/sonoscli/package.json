@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-sonoscli",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-sonoscli",
   "version": "1.0.0",
   "description": "NEURO skill: Control Sonos speakers (discover/status/play/volume/group).",
   "keywords": [
@@ -32,3 +32,4 @@
     "linux"
   ]
 }
+

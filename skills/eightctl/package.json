@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-eightctl",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-eightctl",
   "version": "1.0.0",
   "description": "NEURO skill: Control Eight Sleep pods (status, temperature, alarms, schedules).",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

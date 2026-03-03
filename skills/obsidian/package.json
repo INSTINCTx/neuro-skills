@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-obsidian",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-obsidian",
   "version": "1.0.0",
   "description": "NEURO skill: Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli.",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

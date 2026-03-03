@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-bird",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-bird",
   "version": "1.0.0",
   "description": "NEURO skill: X/Twitter CLI for reading, searching, posting, and engagement via cookies.",
   "keywords": [
@@ -31,3 +31,4 @@
     "darwin"
   ]
 }
+

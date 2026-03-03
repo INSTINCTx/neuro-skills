@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-songsee",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-songsee",
   "version": "1.0.0",
   "description": "NEURO skill: Generate spectrograms and feature-panel visualizations from audio with the songsee CLI.",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

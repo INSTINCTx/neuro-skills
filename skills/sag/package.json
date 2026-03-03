@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-sag",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-sag",
   "version": "1.0.0",
   "description": "NEURO skill: ElevenLabs text-to-speech with mac-style say UX.",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-automation-workflows",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-automation-workflows",
   "version": "1.0.0",
   "description": "NEURO skill: Design and implement automation workflows to save time and scale operations as a solopreneur. Use when identifying repetitive tasks to automate, building workflows across tools, setting up triggers an",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

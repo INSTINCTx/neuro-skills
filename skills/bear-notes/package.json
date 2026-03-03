@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-bear-notes",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-bear-notes",
   "version": "1.0.0",
   "description": "NEURO skill: Create, search, and manage Bear notes via grizzly CLI.",
   "keywords": [
@@ -31,3 +31,4 @@
     "darwin"
   ]
 }
+

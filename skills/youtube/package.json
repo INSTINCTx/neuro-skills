@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-youtube",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-youtube",
   "version": "1.0.0",
   "description": "NEURO skill: |",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

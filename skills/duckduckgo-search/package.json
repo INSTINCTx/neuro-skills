@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-duckduckgo-search",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-duckduckgo-search",
   "version": "1.0.0",
   "description": "NEURO skill: Performs web searches using DuckDuckGo to retrieve real-time information from the internet. Use when the user needs to search for current events, documentation, tutorials, or any information that requ",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+

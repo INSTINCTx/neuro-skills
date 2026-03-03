@@ -1,5 +1,5 @@
-{
-  "name": "@instinctx/neuro-skill-openai-whisper-api",
+﻿{
+  "name": "@instinctx-dev/neuro-skill-openai-whisper-api",
   "version": "1.0.0",
   "description": "NEURO skill: Transcribe audio via OpenAI Audio Transcriptions API (Whisper).",
   "keywords": [
@@ -28,3 +28,4 @@
     "install.js"
   ]
 }
+
