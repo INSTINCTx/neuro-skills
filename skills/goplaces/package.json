@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-goplaces",
+{
+  "name": "neuro-skill-goplaces",
   "version": "1.0.0",
   "description": "NEURO skill: Query Google Places API (New) via the goplaces CLI for text search, place details, resolve, and reviews. Use for human-friendly place lookup or JSON output for scripts.",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-onenote",
+{
+  "name": "neuro-skill-onenote",
   "version": "1.0.0",
   "description": "NEURO skill: Manage notes with Microsoft OneNote via Graph API. Create notebooks, sections, and pages. Search and organize notes. Cross-platform (API-based).",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

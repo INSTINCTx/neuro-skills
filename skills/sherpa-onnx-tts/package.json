@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-sherpa-onnx-tts",
+{
+  "name": "neuro-skill-sherpa-onnx-tts",
   "version": "1.0.0",
   "description": "NEURO skill: Local text-to-speech via sherpa-onnx (offline, no cloud)",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

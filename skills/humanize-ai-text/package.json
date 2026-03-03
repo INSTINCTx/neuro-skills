@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-humanize-ai-text",
+{
+  "name": "neuro-skill-humanize-ai-text",
   "version": "1.0.0",
   "description": "NEURO skill: Humanize AI-generated text to bypass detection. This humanizer rewrites ChatGPT, Claude, and GPT content to sound natural and pass AI detectors like GPTZero, Turnitin, and Originality.ai. Based on Wik",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

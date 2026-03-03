@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-blogwatcher",
+{
+  "name": "neuro-skill-blogwatcher",
   "version": "1.0.0",
   "description": "NEURO skill: Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

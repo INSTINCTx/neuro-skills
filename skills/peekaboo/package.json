@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-peekaboo",
+{
+  "name": "neuro-skill-peekaboo",
   "version": "1.0.0",
   "description": "NEURO skill: Capture and automate macOS UI with the Peekaboo CLI.",
   "keywords": [
@@ -31,4 +31,3 @@
     "darwin"
   ]
 }
-

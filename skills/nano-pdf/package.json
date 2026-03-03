@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-nano-pdf",
+{
+  "name": "neuro-skill-nano-pdf",
   "version": "1.0.0",
   "description": "NEURO skill: Edit PDFs with natural-language instructions using the nano-pdf CLI.",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-neuro-docs",
+{
+  "name": "neuro-skill-neuro-docs",
   "version": "1.0.0",
   "description": "NEURO skill: NEURO documentation expert with decision tree navigation, search scripts, doc fetching, version tracking, and config snippets for all NEURO features (providers, gateway, automation, platforms, tools).",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

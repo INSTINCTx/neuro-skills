@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-xurl",
+{
+  "name": "neuro-skill-xurl",
   "version": "1.0.0",
   "description": "NEURO skill: A CLI tool for making authenticated requests to the X (Twitter) API. Use this skill when you need to post tweets, reply, quote, search, read posts, manage followers, send DMs, upload media, or interac",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-skill-creator",
+{
+  "name": "neuro-skill-skill-creator",
   "version": "1.0.0",
   "description": "NEURO skill: Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets.",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

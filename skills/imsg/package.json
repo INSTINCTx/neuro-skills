@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-imsg",
+{
+  "name": "neuro-skill-imsg",
   "version": "1.0.0",
   "description": "NEURO skill: iMessage/SMS CLI for listing chats, history, and sending messages via Messages.app.",
   "keywords": [
@@ -31,4 +31,3 @@
     "darwin"
   ]
 }
-

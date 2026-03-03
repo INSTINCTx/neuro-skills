@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-powershell-automation",
+{
+  "name": "neuro-skill-powershell-automation",
   "version": "1.0.0",
   "description": "NEURO skill: Windows automation via PowerShell. File operations, system info, process management, and safe scripting. Windows-only.",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

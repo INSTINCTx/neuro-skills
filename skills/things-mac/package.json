@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-things-mac",
+{
+  "name": "neuro-skill-things-mac",
   "version": "1.0.0",
   "description": "NEURO skill: Manage Things 3 via the `things` CLI on macOS (add/update projects+todos via URL scheme; read/search/list from the local Things database). Use when a user asks Neuro to add a task to Things, list inbo",
   "keywords": [
@@ -31,4 +31,3 @@
     "darwin"
   ]
 }
-

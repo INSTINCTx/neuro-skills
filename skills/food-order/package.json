@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-food-order",
+{
+  "name": "neuro-skill-food-order",
   "version": "1.0.0",
   "description": "NEURO skill: Reorder Foodora orders + track ETA/status with ordercli. Never confirm without explicit user approval. Triggers: order food, reorder, track ETA.",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-healthcheck",
+{
+  "name": "neuro-skill-healthcheck",
   "version": "1.0.0",
   "description": "NEURO skill: Host security hardening and risk-tolerance configuration for Neuro deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, Neuro cron sched",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

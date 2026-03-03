@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-spotify-player",
+{
+  "name": "neuro-skill-spotify-player",
   "version": "1.0.0",
   "description": "NEURO skill: Terminal Spotify playback/search via spogo (preferred) or spotify_player.",
   "keywords": [
@@ -31,4 +31,3 @@
     "darwin"
   ]
 }
-

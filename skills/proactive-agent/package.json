@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-proactive-agent",
+{
+  "name": "neuro-skill-proactive-agent",
   "version": "1.0.0",
   "description": "NEURO skill: Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now with WAL Protocol, Working Buffer, Autonomous Crons, and battle-tested patterns. Par",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-gh-issues",
+{
+  "name": "neuro-skill-gh-issues",
   "version": "1.0.0",
   "description": "NEURO skill: Fetch GitHub issues, spawn sub-agents to implement fixes and open PRs, then monitor and address PR review comments. Usage: /gh-issues [owner/repo] [--label bug] [--limit 5] [--milestone v1.0] [--assig",
   "keywords": [
@@ -28,4 +28,3 @@
     "install.js"
   ]
 }
-

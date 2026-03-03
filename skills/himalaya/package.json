@@ -1,5 +1,5 @@
-﻿{
-  "name": "@instinctx-dev/neuro-skill-himalaya",
+{
+  "name": "neuro-skill-himalaya",
   "version": "1.0.0",
   "description": "NEURO skill: CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search, and organize emails from the terminal. Supports multiple accounts and message composition with MML (MIM",
   "keywords": [
@@ -32,4 +32,3 @@
     "linux"
   ]
 }
-
